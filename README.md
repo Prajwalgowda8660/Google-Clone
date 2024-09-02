@@ -54,8 +54,8 @@ You need a modern web browser to run this project.
 3. Responsive design
 
 # Contact
-Email - alsharath66@gmail.com<br>
-LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
+Email - prajwalgowdagowda65@gmail.com<br>
+LinkedIn - [PRAJWAL GOWDA H G](www.linkedin.com/in/prajwalgowdahg)
 
 # Project Link
-https://github.com/sharath453/Google_Clone.git
+https://github.com/Prajwalgowda8660/Google-Clone
