@@ -55,7 +55,7 @@ You need a modern web browser to run this project.
 
 # Contact
 Email - prajwalgowdagowda65@gmail.com<br>
-LinkedIn - [PRAJWAL GOWDA H G](www.linkedin.com/in/prajwalgowdahg)
+LinkedIn - www.linkedin.com/in/prajwalgowdahg
 
 # Project Link
 https://github.com/Prajwalgowda8660/Google-Clone
