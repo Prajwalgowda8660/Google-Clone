@@ -20,7 +20,7 @@ This project is a clone of the Google search page. It replicates the basic desig
 
 ## Screenshots
 
-![Google_Clone](https://github.com/user-attachments/assets/4ec53fc9-6b30-4a0c-97ff-01412afec0ff)
+![image](https://github.com/user-attachments/assets/a1056a6d-a102-4e68-9bbb-d80fec9b9e56)
 
 ## Built With
 
