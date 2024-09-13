@@ -40,7 +40,7 @@ You need a modern web browser to run this project.
 
 1. Clone the repo:<br><br>
    ```sh
-   git clone https://github.com/sharath453/Google_Clone.git
+   git clone https://github.com/Prajwalgowda8660/Google-Clone.git
 2. Open the index.html file in your browser to start the project.
 3. Run the project in live server of preferred Browser.
    
